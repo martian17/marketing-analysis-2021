@@ -9,7 +9,7 @@ library(psych)            # install.packages("psych")
 
 
 # teamD
-ifile="tsu.xlsx"
+ifile="tsuridashi.xlsx"
 ofile="tsuoutput.csv"
 
 
