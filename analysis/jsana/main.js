@@ -250,12 +250,19 @@ var plotClusterData = function(record,f1,f2,config = {}){
     
     return canvas;
 };
+
 const labels = [
+    "施設重視",
+    "お値打ち高評価",
+    "周囲の人、周囲環境",
+    "ゲレンデ特性、安心感"
+];
+/*const labels = [
     "住施設",
     "安さ、外部依存",
-    "ゲレンデ特性、安心感",
-    "周囲の人、周囲環境"
-];
+    "周囲の人、周囲環境",
+    "ゲレンデ特性、安心感"
+];*/
 
 
 var main = function(){
